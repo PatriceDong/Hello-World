@@ -1,3 +1,3 @@
 # Hello-World
 
-I am Patrice Dong, a happy girl stuying in NSCAD :)
+I am Patrice Dong, a happy girl studying in NSCAD :)
